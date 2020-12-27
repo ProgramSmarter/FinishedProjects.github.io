@@ -5,3 +5,5 @@ Ball
 Bag
 Any Specific Stuff
 Notebook
+Jacket
+Uniform
